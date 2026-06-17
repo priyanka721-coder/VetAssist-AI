@@ -1,0 +1,6 @@
+{
+  "name": "VetAssist AI",
+  "description": "Comprehensive veterinary & pet care platform with AI-powered consultation, food recommendations, and health records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
